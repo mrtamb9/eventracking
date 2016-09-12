@@ -1,0 +1,20 @@
+<news>
+    <table_name>news</table_name>
+    <article_id>id</article_id>
+    <get_time>get_time</get_time>
+    <create_time>create_time</create_time>
+    <url> </url>
+    <domain>source</domain>
+    <title>title</title>
+    <description>description</description>
+    <content> </content>
+    <vntoken>vntokenizer</vntoken>
+    <comment> </comment>
+    <tag> </tag>
+    <source_id> </source_id>
+    <type> </type>
+    <url_code> </url_code>
+    <category> </category>e
+    <author> </author>
+    <catid>catid</catid>
+</news>

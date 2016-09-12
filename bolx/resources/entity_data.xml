@@ -1,0 +1,54 @@
+<entity>
+    <root>
+        /bolx/entity
+    </root>
+
+    <entity_dictionary>
+        /entity/dictionary
+    </entity_dictionary>
+
+    <porpus_size_in_day>
+        /dictionary/corpus_size_in_day
+    </porpus_size_in_day>
+
+    <porpus_size_to_day>
+        /dictionary/corpus_size_to_day
+    </porpus_size_to_day>
+
+    <dictionary_in_day>
+        /dictionary/dictionary_in_day
+    </dictionary_in_day>
+
+    <dictionary_to_day>
+        /dictionary/dictionary_to_day
+    </dictionary_to_day>
+
+    <entity_folder>
+        /entity_data
+    </entity_folder>
+
+    <entity_tfidf_folder>
+        /entity_tfidf
+    </entity_tfidf_folder>
+
+    <cache_folder>
+        /cache
+    </cache_folder>
+
+    <aids_folder>
+        /aids
+    </aids_folder>
+
+    <current_aids_file>
+        real_time/current_aids.txt
+    </current_aids_file>
+
+    <current_data_file>
+        real_time/entities.txt
+    </current_data_file>
+
+    <format_file_name_data>
+        /{0}.txt
+    </format_file_name_data>
+
+</entity>

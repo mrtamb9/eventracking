@@ -1,0 +1,5 @@
+<event_table>
+    <table_name>event2</table_name>
+    <event_id>id</event_id>
+    <date>date</date>
+</event_table>

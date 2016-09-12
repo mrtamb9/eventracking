@@ -1,0 +1,36 @@
+<table>
+    <news>
+        <table_name>NewsDb.news</table_name>
+        <aid>id</aid>
+        <create_time>create_time</create_time>
+        <get_time>get_time</get_time>
+        <title>title</title>
+        <description>descriprion</description>
+        <content>content</content>
+        <vntoken>vntokenizer</vntoken>
+        <domain>source</domain>
+        <tag>tag</tag>
+        <url>url</url>
+
+    </news>
+
+    <event>
+
+    </event>
+    <trend>
+
+    </trend>
+</table>
+
+<!--TOKEN = 'vntokenizer'-->
+<!--DOMAIN = 'source'-->
+<!--CREATE_TIME = 'create_time'-->
+<!--GET_TIME = 'get_time'-->
+<!--CATID = 'catid'-->
+<!--ID = 'id'-->
+<!--CONTENT = 'content'-->
+<!--URL  = 'url'-->
+<!--TITLE = 'title'-->
+<!--CATID = 'catid'-->
+<!--DESCRIPTION = 'description'-->
+<!--TAGS='tag'-->

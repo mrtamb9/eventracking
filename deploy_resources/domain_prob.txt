@@ -1,0 +1,4 @@
+vovgiaothong.vn: ko có thông tin thời gian, chỉ có ngày 
+tgvn.com.vn: bị nhầm am và pm 
+doanhnhansaigon.vn: bị lẫn những câu đầu giống nhau hết 
+thanhnien.vn: trùng với thanhnien.com.vn

@@ -1,0 +1,80 @@
+vietnamnet.vn	.//div[@id="ArticleContent"].//img[@title]
+24h.com.vn	.//img[@class="news-image"]
+2sao.vn	.//div[@align="center"].//img	.//div[@id="vmccontent"].//img
+afamily.vn	.//div[@class="detail_content fl mgt15"].//img		.//img[@title]
+anninhthudo.vn	.//div[@class="content-body"].//img
+antt.vn	.//div[@id="main-detail"].//img
+autopro.com.vn	.//div[@id="content-id"].//img
+baodatviet.vn	.//div[@class="detail"].//img[@align]
+baogiaothong.vn	.//table[@class="figure"].//img
+baotintuc.vn	.//table[@class="boxdoituong"].//img
+baobaovephapluat.vn	.//div[@class="article"].//img
+baoxaydung.com.vn	.//div[@class="__MB_CONTENT_FOR_PRINTER"].//img
+bizlive.vn	.//div[@id="ctl00_main_divNormal"].//img	.//div[@class="text-content"].//img
+thethao247.vn	.//div[@id="main-detail"].//img
+cadn.com.vn	.//span[@class="lbContent_Article"].//img
+cand.com.vn	.//table[@class="contentimg"].//img
+cafebiz.vn	.//img[@class="img"]
+cafef.vn	.//img[@data-field="firstphoto"]
+congluan.vn	.//div[@class="entry-content"].//img
+congly.com.vn	.//div[@class="nd_content"].//img
+daidoanket.vn	.//div[@class="col_right_detail"].//img	.//div[@class="col_right_detail"].//input
+dantri.com.vn	m.//div[@class="detail-content")].//img		.//div[@id="divNewsContent"].//img	img[@type="photo"]
+danviet.vn	.//img[@class="news-image"]
+doisongphapluat.com	.//div[@id="main-detail"].//img
+eva.vn	.//img[@class="news-image"]
+genk.vn	.//img[@type="photo"]
+giadinh.net.vn	.//img[@type="photo"]
+giaoduc.net.vn	.//table[@class="picture"].//img
+ictnews.vn	.//div[@class="content-detail"].//img
+infonet.vn	.//table[@class="picture"].//img
+kenh14.vn	.//div[@class="content "].//img	.//div[@class="postpadding"].//img	.//div[@class="knd-content"].//img
+kienthuc.net.vn	.//table[@class="contentimg"].//img	.//div[@id="gallery"].//img
+kinhtedothi.vn	.//div[@id="mRegion"].//img
+khampha.vn	.//div[@class=" text-conent"].//img
+ktdt.vn	.//div[@id="mRegion"].//img
+laodong.com.vn	.//div[@class="main-contents"].//img
+news.vn	.//div[@class="full-article"].//img
+news.zing.vn	.//table[@class="picture"].//img	.//section[@class="main"].//img
+ngoisao.net	.//table[@class="tplCaption"].//img
+nguoiduatin.vn	.//img[@id="img_1"]
+nhandan.com.vn	.//div[@class="itemBody"].//img
+nhipcaudautu.vn	.//div[@class="bodydetail"].//img
+nongnghiep.vn	.//div[@class="image"].//img	.//div[@class="content"].//img
+petrotimes.vn	.//table[@class="MASTERCMS_TPL_TABLE"].//img
+phapluattp.vn	.//div[@class="article-body"].//img
+phunuonline.com.vn	.//table[@class="tblImage"].//img
+phunutoday.vn	.//div[@class="description"].//img	.//table[@class="image center"].//img
+sggp.org.vn	.//div[@class="news-detail"].//img
+soha.vn	.//img[@data-field="firstphoto"]
+suckhoedoisong.vn	.//img[@type="photo"]
+thanhnien.com.vn	.//div[@id="abody"].//img	.//div[@class="full-img"].//img
+ihay.thanhnien.com.vn	.//div[@id="print-news"].//img
+thethao.thanhnien.com.vn	.//div[@id="print-news"].//img
+thethao.vnexpress.net	.//div[@id="article_content"].//img
+thethao247.vn	.//div[@id="main-detail"].//img
+thethaovanhoa.vn	.//div[@class="clearfix cont"].//img	
+thoibaonganhang.vn	.//div[@class="detail_info "].//img
+tienphong.vn	.//div[@class="article-photo1"].//img	m.//div[@class="article-body"].//img
+tinhte.vn	.//img[@class="cover"]
+tinnhanhchungkhoan.vn	.//div[@id="ctl00_mainContent_pLargeImage"].//img
+tintuc.vn	.//div[@class="content-post"].//img
+tintuconline.com.vn	.//div[@id="vmcContent"].//img
+tuoitre.vn	.//img[@class="ck_image"]	.//div[@class="fck"].//img
+thethao.tuoitre.vn	.//article[@class="fck"].//img
+tuyengiao.vn	.//div[class="story_content clearfix"].//img
+vneconomy.vn	.//div[@class="leftmaincontentleft"].//img
+vnexpress.net	.//table[@class="tplCaption"].//img	.//div[@id="article_content"].//img
+vtc.vn	.//div[@id="pageContent"].//img
+vtv.vn	.//img[@data-field="firstphoto"]	.//div[@type="Photo"].//img	.//div[@class="inner"].//img
+vovgiaothong.vn	.//div[@class="content"].//img
+xaluan.com	.//div[@id="mainContent"].//img
+vietnamplus.vn	.//div[@class="article-contents"].//img
+motthegioi.vn	.//div[@class="p-image"].//img
+baophapluat.vn	.//div[@class="article-big-image article-photo"].//img	.//div[@class="article-content"].//img
+bongda365.com.vn	.//div[@class="entry-content"].//img
+vntinnhanh.vn	.//div[@class="data"].//img
+qdnd.vn	.//div[@class="content"].//img
+bongdaso.com	.//div[@class="art_content"].//img
+vov.vn	.//table[@class="contentimg"].//img	.//div[@id="gallery"].//img
+bongdaplus.vn	.//div[@class="contentbox"].//img

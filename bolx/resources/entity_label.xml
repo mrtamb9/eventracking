@@ -1,0 +1,21 @@
+<entity_label>
+    <entity>
+        <label>PER</label>
+        <label>LOC</label>
+        <label>ORG</label>
+        <label>PRO</label>
+        <label>TOUR</label>
+    </entity>
+    <word>
+        <label>B-PER</label>
+        <label>B-LOC</label>
+        <label>B-ORG</label>
+        <label>B-PRO</label>
+        <label>B-TOUR</label>
+        <label>I-PER</label>
+        <label>I-LOC</label>
+        <label>I-ORG</label>
+        <label>I-PRO</label>
+        <label>I-TOUR</label>
+    </word>
+</entity_label>

@@ -1,0 +1,5 @@
+<entity_table>
+    <table_name>news_image</table_name>
+    <article_id>news_id</article_id>
+    <entities>entities</entities>
+</entity_table>

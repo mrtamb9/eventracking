@@ -1,0 +1,9 @@
+<statistic>
+    <root>
+        /statistic
+    </root>
+    <current_id>
+        /statistic/current_id.txt
+    </current_id>
+
+</statistic>

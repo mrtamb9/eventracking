@@ -1,0 +1,2 @@
+30 * * * * /bin/bash /data/khaimt/trend_ploy2/real_time_run.sh >>/data/khaimt/trend_ploy2/logs/real_time_crontab.log 2>&1
+

@@ -1,0 +1,6 @@
+<mysql>
+    <host_name>192.168.23.43</host_name>
+    <db_name>NewsDb</db_name>
+    <user_name>bolx</user_name>
+    <password>68rMnjbgCC5ppdn</password>
+</mysql>

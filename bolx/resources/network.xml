@@ -1,0 +1,13 @@
+<network>
+	<host>localhost</host>
+	<port_entity_tfidf>8999</port_entity_tfidf>
+	<port_entity_all>9000</port_entity_all>
+	<port_entity_title>9001</port_entity_title>
+	<port_entity_description>9002</port_entity_description>
+	<port_entity_content>9003</port_entity_content>
+	<port_token_all>9004</port_token_all>
+	<port_token_title>9005</port_token_title>
+	<port_token_description>9006</port_token_description>
+	<port_token_content>9007</port_token_content>
+	<port_token_string>9008</port_token_string>
+</network>

@@ -1,0 +1,34 @@
+*)Workflow cho việc chạy hàng ngày 
+1) Lấy data trên server:
+	1.1) Lấy data bow 
+	1.2) Lấy data entity 
+2) Xử lý detect các events
+3) Connect events theo ngày
+4) Xử lý song song các tiến trình: 
+	4.1) Tính hashtag cho các bài báo 
+	4.2) Lấy thống kê cho các bài báo trong các event (click, view, phục vụ bài toán ranking các events)
+	4.3) cluster event thành các sub_clusters
+	4.4) Lấy ảnh cho các bài báo 
+5) Visualize events sau khi đã connect (cần có cả cơ chế nối với detect real-time) ==> bước này thực hiện tính để chỉ việc hiển thị ra kết quả luôn 
+	+) Các độ đo dùng để rank (Lưu lại vào db/file)
+		+) Thống kê về số bài và gradient cho các events, khi rank chỉ việc cộng lại 
+	+) visualize để hiển thị trend/event trong một khoảng thời gian (Có thể fix cứng trong một khoảng thời gian 3-4 ngày)
+		+) cluster các sub_clusters 
+		+) Chọn bài báo đại diện/ảnh/description cho các sub_cluster 
+*) Workflow cho việc chạy real_time 
+1) Lấy data trên server:
+	1.1) Lấy data bow 
+	1.2) Lấy data entity 
+2) Xử lý detect các events
+3) Connect events theo ngày 
+4) Xử lý song song các tiến trình: 
+	4.1) Tính hashtag cho các bài báo 
+	4.2) Lấy thống kê cho các bài báo trong các event (click, view, phục vụ bài toán ranking các events)
+	4.3) cluster event thành các sub_clusters
+	4.4) Lấy ảnh cho các bài báo 
+5) Cập nhật các tri thức visualize events sau khi connect dựa trên kết quả thống kê (Kết hợp với kết quả chạy ở workflow chạy hàng ngày)
+	+) Các độ đo dùng để rank (Lưu lại vào db/file)
+		+) Thống kê về số bài và gradient cho các events, khi rank chỉ việc cộng lại 
+	+) visualize để hiển thị trend/event trong một khoảng thời gian (Có thể fix cứng trong một khoảng thời gian 3-4 ngày)
+		+) cluster các sub_clusters 
+		+) Chọn bài báo đại diện/ảnh/description cho các sub_cluster 

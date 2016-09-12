@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "START_DATE: $1"
+echo "END_DATE: $2"
+count=0
+START_DATE=$1
+END_DATE=$2
+TEMP_DATE=$START_DATE
+while true; 
+do 
+   echo "Process: $TEMP_DATE"
+   if ["$TEMP_DATE" == "$END_DATE"]
+   then 
+	break
+   fi
+   TEMP_DATE=$(date +%Y-%m-%d -d "$TEMP_DATE + 1 day")
+done

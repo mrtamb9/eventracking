@@ -1,0 +1,8 @@
+/*   Day chi la file note, khong duoc su dung trong chuong trinh  */
+dictionary:
+    <entity_id1>\t<entity1>\t<document_frequence1>
+    <entity_id2>\t<entity2>\t<document_frequence2>
+curpus_size:
+    <corpus_size>
+entity: <date>.txt
+    <article_id>\t<domain>\t<catid?\t<entity_1> <entity_2> <entity_3>
